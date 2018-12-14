@@ -1,0 +1,15 @@
+This is the response sended ones the post to http://adminpolitics.com/wscabo/auth.php
+is done.
+
+{
+	"success": true,
+	"data": {
+		"user": {
+			"id": 1,
+			"name": "JJSR",
+			"picture": null,
+			"profile": "Some Text",
+			"lids": ["C111", "C222", "C333", "C444"]
+		}x	
+	}
+}
