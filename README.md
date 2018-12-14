@@ -18,5 +18,3 @@ the:
   path_provider: ^0.4.1
   
 libraries.
-
-The login safe user information to the sqlite allowing the login session to persist in the time.
