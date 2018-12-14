@@ -1,16 +1,15 @@
-# prueba1
+# Flare Login: SQFlite full Persistence Rest Login
 
-A new Flutter project.
+This project was think for a fast complete login application using Rest api response.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Just clone the project or copy the assets and lib files, and add to your pubspect dependencies
+the: 
+  flare_flutter: ^1.0.2
+  dio: ^1.0.9
+  sqflite: any
+  path_provider: ^0.4.1
+libraries.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+The login safe user information to the sqlite allowing the login session to persist in the time.
